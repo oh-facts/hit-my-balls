@@ -12,9 +12,9 @@ Feel free to contribute.
 
 1. W/S or arrow keys to move.
 
-2. R to reload
+2. R to restart
 
-2. Esc / cross button / alt + f4 / power off button to quit
+3. Esc / cross button / alt + f4 / power off button to quit
 
 ## System Requirments
 
