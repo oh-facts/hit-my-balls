@@ -50,7 +50,7 @@ make all
 Open Console and enter the following commands
 ``` 
 git clone https://github.com/oh-facts/hit-my-balls.git
-cd eat-my-balls-in-cpp
+cd hit-my-balls
 mkdir build
 cd build
 cmake .. -G "Unix Makefiles"
