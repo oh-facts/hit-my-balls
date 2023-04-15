@@ -31,7 +31,7 @@ Feel free to contribute.
 
 Open powershell and enter the following commands
 ``` 
-git clone https://github.com/oh-facts/hit-my-balls-in-cpp.git
+git clone https://github.com/oh-facts/hit-my-balls.git
 ```
 
 Navigate inside the folder to the root directory (the one with the src files/vendor/res) and open powershell there
@@ -49,7 +49,7 @@ make all
 
 Open Console and enter the following commands
 ``` 
-git clone https://github.com/oh-facts/hit-my-balls-in-cpp.git
+git clone https://github.com/oh-facts/hit-my-balls.git
 cd eat-my-balls-in-cpp
 mkdir build
 cd build
